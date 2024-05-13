@@ -42,3 +42,31 @@
     border: 1px solid lightgrey;
     cursor: pointer;
 }
+
+.bot-btns{
+    width: -webkit-fill-available;
+    background-color: #ff555f;
+    color: white;
+    border: none;
+    font-size: 14px;
+    border-radius: 4px;
+    line-height: 25px;
+    cursor: pointer;
+    padding: 1px 4px;
+}
+
+.bot-btns:hover{
+    background-color: #e5444e;
+}
+
+#helpbtns{
+        color: #fff;
+        background: #121f2efa;
+        padding: 10px;
+        position: fixed;
+        bottom: 66px;
+        margin: 3px 26px;
+        box-shadow: 0px 0px 4px grey;
+        display: none;
+        border-radius: 9px;
+    }
