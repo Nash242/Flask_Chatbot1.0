@@ -1,0 +1,128 @@
+1.Security Access for Power BI Corporate Dashboard OR I am not sure where to apply for the dashboard access:-
+Go to GSocial > Tools > All tools > Security Access for Power BI Corporate Dashboard Or click this link: https://genpactonline.sharepoint.com/sites/DataSecurity/
+
+2. Request for a new dashboard
+a)Raise new request (Button) : Click on ‘Raise new request’ Button on top right and user will be directed to Input form
+b)OHR – Put OHR and click anywhere outside the field box
+c)Email – Email will auto populate upon entering OHR
+d)Read – By default, Read in un-editable form is set for Read only Security access on applications
+e)Data Access – Select basis type of details to be viewed on the dashboard. Based on the Type selected, corresponding Security Types and Security Values needs to be filled. Please note all Security Types & their security values are mandatory to be filled. (Incase you need access for all Security Value under a particular Security Type- chose ALL 
+f)Financial- For Actuals/Outlook/OP Plan financial information
+g)Non-Financial- For Headcount (Genpact and contractors) and Recruitment information
+h)Sales-For Inflow, Booking and Pipeline information
+i)Financial Data Repository – For controllership Information (Detailed GL, PR PO, DSO, Collections, Span2Bill, Unbilled Revenue)
+j)Back – Button in order to go back to dashboard (requester)
+k)Preview – Button will be at the bottom and user can preview all the selected values in table by clicking this.
+l)Attachment – This is a mandatory option to attach direct supervisor or above level email approval by 
+m)clicking choose file button Please do explain in detail that why you need the access & business use case while you are seeking approval from your supervisor or above level as the same will be reviewed by approvers (L/L2) to grant access.
+n)Submit – Button will be displayed after entering OHR and selecting security values (Screenshot on next slide)
+o)User will only be able to submit if values in all Security types are selected under a particular Data access. 
+p)Upon submission request will go through approval workflow. Else message will be displayed to select the values. 
+q)User can also Submit request for any other User’s OHR
+r)Email trigger will be sent to requester and approver/approvers upon submission.
+s)Submit button is there on preview page bottom also.
+
+3. Selecting Security Value & Security Type
+In a particular Data Access select Security Values basis your requirement. 
+Example 1
+If you need to review Financials Access  for “ The Coca Cola Company” (TCCC) then select the same in Account / Customer name and other security type e.g SDO linked to TCCC will be visible while Financial access is granted and if you don’t know the SDOs linked with this account , “select all” as in that case system will automatically grant access for SDOs or any other security value associated with TCCC e.g SDOs/ NOW/Cost Center/ Service Line linked to TCCC
+
+4. Raise a request for additional access
+In case you already have access to certain data set in Finance BI and now you want to apply for another set then select both while placing the request as system will consider the most recent request an overwrite any prior access.
+Example 1
+a. If you already have access Data Type “Financial” and now you want additional access for Non – Financial, then select both while submitting the request.
+Example 2
+a.If you already have Financial access to “The Coca Cola Company”” and now you want additional access for “Meta”, then select both while submitting the request. You can preview the selection before submitting the request. 
+b.It will be un-editable until approved. To check Click open >Submit button will not be displayed (Preview button is there to check already selected values)
+Note: Please refer Annexure 1 for Approved and Rejected Request process flow.
+
+4. Approver Section (Approve Requests)
+Raise new request (Button) – Click on this and Approver will be redirected to Requester page, click on Raise a request to submit details. 
+View approval request (Button) – Click on this to go back to approver dashboard 
+
+4.1 Actions on requests (By Approver – Level 1)
+Upon opening any pending request approver can not modify security values. Download file option is there to check attached email approval by supervisor.
+a. Approve/Reject Buttons are displayed below for closing the request
+b. Comments are optional field
+c. After Approve/Reject request will not be displayed for approvers. Upon approval requester and level 2 approver will be informed on action taken via email. , in case of rejection, requester and other approvers at level 1 will be notified.
+
+4.2 Actions on requests (By Approver) Level 2
+Upon opening any pending request approver can modify selections before taking actions on the same at level 2 (final approver)
+a. Approve/Reject Buttons are displayed below for closing the request
+b. Comments are optional field
+C. Download file – click on this to check attached email approval by supervisor.
+d. After Approve/Reject request will not be displayed for approvers. Only requester will be informed on action taken by email. 
+
+5. Approver is requester
+Approver will follow requester steps (Raise new request)
+a. If any previous request submitted, will be displayed there. Can be opened and edited for resubmission if in Approved state
+b. Raise new request – For any new requests
+c. View approval request – To go back to approver dashboard to take actions on pending requests
+
+6. Annexure 1 – Approved/Rejected Request 
+a.Once approved, user can edit and resubmit the request. Submit button will be visible upon opening the same request.
+b.User can alter or resubmit new dimensions if required.
+c.If Vertical is selected for any data access or Financial >Security Type>All is selected – Request will go through two level approval process
+d. All other request will go to final approver
+e. In case of Data Access>Vertical>All , request will go to final approver (other than Financial)
+f. Incase of Rejection from level 2(final) User can resubmit the request and select/deselect any dimensions
+g. Incase of partial Rejection (level1) User can alter all dimensions
+
+7. Error while submitting the request
+a. Submit – Button will be displayed after entering OHR and selecting security values (Screenshot on next slide)
+b. User will only be able to submit if values in all Security types are selected under a particular Data access. 
+c. Upon submission request will go through approval workflow. Else message will be displayed to select  the values. 
+d. Email trigger will be sent to requester and approver/approvers upon submission
+e. Submit button is there on preview page bottom also
+
+8. General FAQ:-
+
+1.Where is my request pending?
+All requests for approver actions will be displayed here – Check the approval flow 
+
+2.Supervisor approval – with detailed business justification
+Attach the clearly justified email to the request which explains what access you need & why you need it.
+
+3.How long it will take to get the access
+a. Once access request is approved by L2 ( Finance Transformation Group) it can take up to 48 hours on (working  days) in a normal scenarios. 
+b. There is one cycle each day between 5-6.30 pm for the processing
+c. E.g If a user XYZ ‘s request got approved on 30th Oct’23 at 4pm in the evening by L2 approver then it will be added in the processing list for the same day (5-6.30 pm) cycle and in a normal scenario user should get the access by next day EOD. 
+d. It’s not a 24/7 support
+e. Do not wait for closing cycle/ key dates to trigger to apply for the access. Apply for access timely keeping in hand some buffer. In case some long weekends/ holidays are approaching place your request accordingly
+
+4. I am not able to access few reports / data sets
+a. You will only be able to see what you have applied & got approved. E.g If your access got approved for Insurance vertical & now you are trying to access CGRLH data…system wont allow for the same.
+b.How to ceck – Open a new request and go to preview to see what all existing access you have
+
+5. Even after following the SOP/ guidelines I am still facing issue
+a. I am not able to apply for the access please place a helpmate ticket by following below steps and send an email to genpacteagpowerbisupport@genpact.com / genpactinsight@genpact.com & copy Prabhav Shukla/ Nisha Singla Home > Service Catalog > Get Help > IT Application Issues > Application issues > Central Security> https://genpactindprod.service-now.com/sp?id=sc_cat_item&sys_id=b11e035f878d301076294338cebb3525
+b.If your access got approved by L2 & its been more than 48 hours (in working days) and you are still not able to view the reports/ Dashboard, then send an email to  <genpacteagpowerbisupport@genpact.com>/genpactinsight@genpact.com/  & copy Prabhav Shukla/ Nisha Singla
+
+6. Data not appearing correctly in the dashboard
+a.Corporate Dashboard is a Visualization/Reporting Tool
+b.Corporate Dashboard is not a posting tool like Oracle as it’s a visualization / reporting tool. In case there is a issue in the data from source system that cannot be handled by Corporate Dashboard and the same needs to be corrected at source system end only. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
