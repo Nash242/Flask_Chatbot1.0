@@ -110,7 +110,7 @@ const refreshchat = () => {
                     <div>Here are some questions i can help you with.</div>
                     <button class="bot-btns" onclick="botbtns(this)">What is Azure Key Vault Encryption?</button>
                     <button class="bot-btns" onclick="botbtns(this)" style="margin: 5px 0px;">How many sessions, a user can open for the same request?</button>
-                    <button class="bot-btns" onclick="botbtns(this)">How is End user login page experience of a Requester different from an Approver?</button>
+                    <button class="bot-btns" onclick="botbtns(this)">End user login page experience of a Requester is different from an Approver?</button>
                     
                     </div>
                 </li>
