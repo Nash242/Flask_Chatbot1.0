@@ -1,0 +1,12 @@
+pysqlite3-binary
+langchain==0.1.9
+langchain-community==0.0.24
+langchain-core==0.1.30
+langchain-experimental==0.0.53
+langchain-openai==0.0.7
+langdetect==1.0.9
+langsmith==0.1.5
+chromadb==0.4.23
+tiktoken==0.6.0
+sentence_transformers
+flask
