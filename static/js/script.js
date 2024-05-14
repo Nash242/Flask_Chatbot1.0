@@ -53,7 +53,7 @@ const generateResponse = (usermsg) => {
                                         </div>
                                     </li>`)
             res=convertUrlsToLinks(res)
-            res=res.replace(/\n/g, "<br>")
+            res=res.replace(/\n/g, "<br>").replace(//g, '')
             res=res.replace('<br><br>','<br>')
             
             typeWriter(res,typingSpeed = 40)
