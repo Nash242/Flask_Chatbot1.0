@@ -1,0 +1,22 @@
+i) get me the count of each vehicle type.
+ii) What is the most common CancelReason and its count?.
+iii)give me all the customer ids whose vehicle type is economy
+iv)What is the most common CallerID and its count?
+v)What is the average ETA for each month?
+vi)What is the total number of bookings for each month?
+vii)What are the top 10 most common Pickup Addresses?
+
+
+what is the date range of this dataset?
+Give me taxi bookings count on quaterly level?
+
+     "What is the average ETA (Estimated Time of Arrival) for each Dispatch Type?",
+            "What are the top 10 most common Pickup Addresses?",
+            "What is the number of records for each IVR Channel ID?",
+            "What is the average PickupLat and PickupLon for each Dispatch Type?",
+            "What is the most common CancelReason and its count?",
+            "What is the average DispatchAttempts for each OperatorID?",
+            "What is the distribution of records by CustomerID?",
+            "What is the average PickupLat, PickupLon, and ETA for each DriverID?",
+            "What is the total number of bookings for each CreationTime month?",
+            "What is the distribution of records by DispatchType?",
